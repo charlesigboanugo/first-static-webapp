@@ -1,2 +1,2 @@
-# second-static-webapp
+# Blog Application
 HTML, CSS and Bootstrap 
